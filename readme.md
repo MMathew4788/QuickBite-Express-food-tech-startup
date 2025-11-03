@@ -19,7 +19,3 @@ This repository contains a Power BI dashboard project designed to analyze and vi
 ## Instructions
 
 Further details and documentation will be added soon.
-
----
-
-_Feel free to update this README with project details, setup instructions, and usage guidelines as your work progresses._
